@@ -1,6 +1,6 @@
 # Hi, I'm Victor Prim 👋
 
-**Junior Developer · Backend · Applied AI · Systems Integration**
+**Junior Developer · Fullstack· Applied AI · End-to-end product**
 
 Second-year Multiplatform App Development (DAM) student based in Barcelona. I build software end-to-end — backend, AI orchestration and API integration — and I like taking projects from architecture all the way to a deployed, working product.
 
